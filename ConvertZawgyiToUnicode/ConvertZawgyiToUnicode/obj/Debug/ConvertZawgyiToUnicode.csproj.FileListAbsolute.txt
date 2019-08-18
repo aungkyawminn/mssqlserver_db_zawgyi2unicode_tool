@@ -1,0 +1,8 @@
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\bin\Debug\ConvertZawgyiToUnicode.exe.config
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\bin\Debug\ConvertZawgyiToUnicode.exe
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\bin\Debug\ConvertZawgyiToUnicode.pdb
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\obj\Debug\ConvertZawgyiToUnicode.Form1.resources
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\obj\Debug\ConvertZawgyiToUnicode.Properties.Resources.resources
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\obj\Debug\ConvertZawgyiToUnicode.csproj.GenerateResource.Cache
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\obj\Debug\ConvertZawgyiToUnicode.exe
+c:\users\aung kyaw minn\documents\visual studio 2015\Projects\ConvertZawgyiToUnicode\ConvertZawgyiToUnicode\obj\Debug\ConvertZawgyiToUnicode.pdb
