@@ -75,7 +75,8 @@ namespace ConvertZawgyiToUnicode
 
                 status.AppendText(sn_uni + Environment.NewLine);
             }
-
+            
+            transaction.Commit();
             dbcon.databaseDisconnect();
             success.Visible = true;
         }
